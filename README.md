@@ -98,5 +98,3 @@ Among the tested models, ensemble and classification algorithms show better accu
 - Improve accuracy with feature engineering
 
 ---
-
-## 📂 Project Structure
